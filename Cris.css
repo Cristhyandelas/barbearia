@@ -1,5 +1,10 @@
-<style>
+body {
+  background: #CCCCCCC
+}
+
 p {
   text.align: center
 }
-</style>
+em stong {
+  color:red;
+}
