@@ -2,10 +2,22 @@ body {
   background: #CCCCCCC
 }
 
-p {
-  text.align: center
+#banner {
+  widht: 100%;
 }
 
-em stong {
-  color:red;
+h1 { 
+    text-align: center
+  }
+
+p {
+  text-align: center
+}
+
+#missao {
+  font-size: 20 px
+}
+
+em strong {
+  color: #FF0000;
 }
